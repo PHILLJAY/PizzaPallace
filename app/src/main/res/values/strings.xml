@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">mobileDevAssignment1Mark2</string>
+    <string name="text_placeholder">Philips Crazy Pizza</string>
+    <string name="ExtraCheese">Extra Cheese? (+3.00)</string>
+    <string name="deliveryString">Include Delivery (+5.00)</string>
+    <string name="checkoutText">Checkout</string>
+
+    <string-array name="array_toppings">
+        <item>Pineapple</item>
+        <item>Paper</item>
+        <item>Pepperoni</item>
+        <item>Penicillin</item>
+    </string-array>
+
+
+
+    <string-array name="array_sizes">
+        <item>Small (6") ($5) </item>
+        <item>Medium (8") ($6) </item>
+        <item>Extra-Medium (8.6") ($7) </item>
+        <item>Large (9") ($9) </item>
+    </string-array>
+    <string name="title_activity_main2">MainActivity2</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="special_instructionsText">Special Instructions:</string>
+    <string name="totalStatic">Total:</string>
+
+    <string name="dollarSign">$</string>
+    <string name="returnButton">Return</string>
+    <string name="put_delivery_instructions_here">Put Delivery Instructions here</string>
+    <string name="select_toppings">Select Toppings:</string>
+
+
+</resources>
